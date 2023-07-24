@@ -1,11 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # BMI Calculator
-# 
-
-# In[43]:
-
+#  BMI Calculator
 
 Name= input("Enter your name :  ")
 Weight= int(input("Enter weight in pound : "))
@@ -27,15 +21,6 @@ if (BMI > 0):
         print(Name + " You are obese")
 else:
     print(Name + " Please enter a valid input")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
